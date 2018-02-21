@@ -686,17 +686,20 @@ footer {
       font-size:8px;
     }
 
+#lead{
+  min-height: 650px;
+}
+
   #lead-content h1 {
     font-size: 2em; }
 
     #lead-content .ee {
       left: 420px; 
-      top: 15px;
+      top: 130px;
     }
 
-    
     #lead-content .kk {
-      top: 15px;
+      top: 130px;
     }
 
     #lead-content .nn{
